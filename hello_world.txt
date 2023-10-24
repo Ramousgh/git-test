@@ -1,0 +1,2 @@
+Finally, let’s commit all of the files that are in the 
+staging area and add a descriptive commit message. 
